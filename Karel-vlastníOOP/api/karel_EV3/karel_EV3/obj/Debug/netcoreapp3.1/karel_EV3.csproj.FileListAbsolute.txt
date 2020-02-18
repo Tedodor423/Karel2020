@@ -1,0 +1,14 @@
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.exe
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.deps.json
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.runtimeconfig.json
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.runtimeconfig.dev.json
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.dll
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\karel_EV3.pdb
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\Lego.Ev3.Desktop.dll
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\bin\Debug\netcoreapp3.1\Lego.Ev3.Desktop.xml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.csprojAssemblyReference.cache
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.AssemblyInfoInputs.cache
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.AssemblyInfo.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.csproj.CopyComplete
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.dll
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\karel_EV3\karel_EV3\obj\Debug\netcoreapp3.1\karel_EV3.pdb

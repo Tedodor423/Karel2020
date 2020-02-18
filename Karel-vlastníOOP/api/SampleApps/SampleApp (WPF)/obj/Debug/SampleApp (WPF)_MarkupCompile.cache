@@ -1,0 +1,20 @@
+﻿SampleApp (WPF)
+
+
+winexe
+C#
+.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\
+SampleApp
+none
+false
+DEBUG;TRACE
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\App.xaml
+7-683508081
+
+211847961802
+13981142225
+Controls\ConnectionControl.xaml;Controls\MotorControl.xaml;Controls\MotorSettingsControl.xaml;Controls\ProgressOverlayControl.xaml;Controls\SensorDataControl.xaml;Controls\SensorSettingsControl.xaml;MainWindow.xaml;
+
+False
+

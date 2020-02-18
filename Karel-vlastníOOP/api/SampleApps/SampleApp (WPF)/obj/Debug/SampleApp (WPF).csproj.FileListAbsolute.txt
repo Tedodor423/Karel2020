@@ -1,0 +1,30 @@
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\bin\Debug\SampleApp (WPF).exe.config
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\bin\Debug\SampleApp (WPF).exe
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\bin\Debug\SampleApp (WPF).pdb
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).csprojAssemblyReference.cache
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\MotorControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\ProgressOverlayControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\SensorDataControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\SensorSettingsControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\ConnectionControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\MotorControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\MotorSettingsControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\ProgressOverlayControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\SensorDataControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\SensorSettingsControl.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\App.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF)_MarkupCompile.cache
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF)_MarkupCompile.lref
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\ConnectionControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\Controls\MotorSettingsControl.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\MainWindow.baml
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).g.resources
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp.Properties.Resources.resources
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).csproj.GenerateResource.cache
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).csproj.CopyComplete
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).exe
+C:\Users\Tedik\Dropbox\karel\Karel-vlastníOOP\api\SampleApps\SampleApp (WPF)\obj\Debug\SampleApp (WPF).pdb
